@@ -3,7 +3,7 @@ cdn for busuanzi
 
 ### Page
 
-[https://cdn.jsdelivr.net/gh/xaoxuu/cdn-busuanzi@2.3/](https://cdn.jsdelivr.net/gh/xaoxuu/cdn-busuanzi@2.3/)
+[https://cdn.jsdelivr.net/gh/heysoyl/cdn-busuanzi/](https://cdn.jsdelivr.net/gh/heysoyl/cdn-busuanzi/)
 
 ### js
 
@@ -11,11 +11,12 @@ cdn for busuanzi
 URL:
 
 ```md
-https://cdn.jsdelivr.net/gh/xaoxuu/cdn-busuanzi@2.3/js/busuanzi.pure.mini.js
+https://cdn.jsdelivr.net/gh/heysoyl/cdn-busuanzi/js/busuanzi.pure.mini.js
 ```
 
 HTML:
 
 ```html
-<script src='//cdn.jsdelivr.net/gh/xaoxuu/cdn-busuanzi@2.3/js/busuanzi.pure.mini.js'></script>
+<script src='//cdn.jsdelivr.net/gh/heysoyl/cdn-busuanzi/js/busuanzi.pure.mini.js
+```'></script>
 ```
